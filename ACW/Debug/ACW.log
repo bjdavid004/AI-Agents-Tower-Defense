@@ -1,0 +1,48 @@
+﻿  Agent.cpp
+  Ball.cpp
+  CompoundBehaviour.cpp
+  FlockingBehaviour.cpp
+  GridNode.h
+  Pipe.cpp
+C:\Users\jacob\OneDrive\Desktop\AI Master\Tower Defense\ACW\Source\Pipe.cpp(15,16): warning C4305: '=': truncation from 'double' to 'float'
+  Floor.cpp
+  Camera.cpp
+  GameEntity.cpp
+  App.cpp
+C:\Users\jacob\OneDrive\Desktop\AI Master\Tower Defense\ACW\Source\App.cpp(105,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\AI Master\Tower Defense\ACW\Source\App.cpp(106,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\AI Master\Tower Defense\ACW\Source\App.cpp(110,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\AI Master\Tower Defense\ACW\Source\App.cpp(111,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\AI Master\Tower Defense\ACW\Source\App.cpp(113,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\AI Master\Tower Defense\ACW\Source\App.cpp(114,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\AI Master\Tower Defense\ACW\Source\App.cpp(123,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\AI Master\Tower Defense\ACW\Source\App.cpp(284,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\AI Master\Tower Defense\ACW\Source\App.cpp(286,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\AI Master\Tower Defense\ACW\Source\App.cpp(290,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GuiHelpers.cpp
+  RenderHelpers.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  SpatialSegmentation.cpp
+  Generating Code...
+  Compiling...
+  SteeringBehaviours.cpp
+C:\Users\jacob\OneDrive\Desktop\AI Master\Tower Defense\ACW\Source\SteeringBehaviours.cpp(66,42): warning C4018: '>=': signed/unsigned mismatch
+  World.cpp
+C:\Users\jacob\OneDrive\Desktop\AI Master\Tower Defense\ACW\Source\World.cpp(39,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\AI Master\Tower Defense\ACW\Source\World.cpp(40,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\AI Master\Tower Defense\ACW\Source\World.cpp(242,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\AI Master\Tower Defense\ACW\Source\World.cpp(243,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\AI Master\Tower Defense\ACW\Source\World.cpp(262,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\AI Master\Tower Defense\ACW\Source\World.cpp(335,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\AI Master\Tower Defense\ACW\Source\World.cpp(336,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'glew32s.lib(glew.obj)' or at ''; linking object as if no debug info
+  ACW.vcxproj -> C:\Users\jacob\OneDrive\Desktop\AI Master\Tower Defense\Debug\ACW.exe
